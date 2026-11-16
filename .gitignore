@@ -1,0 +1,6 @@
+.env
+chrome-profile/
+__pycache__/
+build/
+dist/
+*.spec
